@@ -1,0 +1,16 @@
+Image_Path,Gesture_Label,Gesture_ID
+gesture_images/left_swipe_1.jpg,Left_Swipe,0
+gesture_images/left_swipe_2.jpg,Left_Swipe,0
+gesture_images/left_swipe_3.jpg,Left_Swipe,0
+gesture_images/right_swipe_1.jpg,Right_Swipe,1
+gesture_images/right_swipe_2.jpg,Right_Swipe,1
+gesture_images/right_swipe_3.jpg,Right_Swipe,1
+gesture_images/stop_1.jpg,Stop,2
+gesture_images/stop_2.jpg,Stop,2
+gesture_images/stop_3.jpg,Stop,2
+gesture_images/thumbs_down_1.jpg,Thumbs_Down,3
+gesture_images/thumbs_down_2.jpg,Thumbs_Down,3
+gesture_images/thumbs_down_3.jpg,Thumbs_Down,3
+gesture_images/thumbs_up_1.jpg,Thumbs_Up,4
+gesture_images/thumbs_up_2.jpg,Thumbs_Up,4
+gesture_images/thumbs_up_3.jpg,Thumbs_Up,4
